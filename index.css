@@ -1,0 +1,110 @@
+#header {
+    text-align:center;
+    position:absolute;
+    left:0px;
+    right:0px;
+    top:100px;
+    margin:auto;
+    width:30vw;
+    border-bottom: 1px solid #CCC;
+}
+
+#center {
+    position:absolute;
+    width:30vw;
+    height:30vh;
+    text-align:center;
+    top:0px;
+    bottom:0px;
+    left:0px;
+    right:0px;
+    margin:auto;
+    transition:0.1s;
+}
+
+#ava1 {
+    height:100%;
+    top:0px;
+}
+
+#menu {
+    position:fixed;
+    width:75px;
+    top:0px;
+    right:-75px;
+    text-align:center;
+    transition:0.5s;
+}
+
+.move {
+    position:absolute;
+}
+
+#boxup {
+    top:-50px;
+    left:0px;
+    right:0px;
+    width:50px;
+    margin:auto;
+}
+
+#boxdown {
+    bottom:-150px;
+    left:0px;
+    right:0px;
+    width:50px;
+    margin:auto;
+}
+
+#boxleft {
+    top:175px;
+    left:-75px;
+    width:50px;
+}
+
+#boxright {
+    top:175px;
+    right:-75px;
+    width:50px;
+}
+
+#but1 {
+    width:100%;
+    position:relative;
+}
+
+#but2 {
+    width:100%;
+}
+
+#but3 {
+    width:100%;
+}
+
+#but4 {
+    width:100%;
+    right:0px;
+    position:absolute;
+    display:none;
+}
+
+#but5 {
+    width:100%;
+    right:0px;
+    position:absolute;
+    display:none;
+}
+
+#but6 {
+    width:100%;
+    right:0px;
+    position:absolute;
+    display:none;
+}
+
+#menubut {
+    width:50px;
+    position:absolute;
+    left:-50px;
+    top:0px;
+}
